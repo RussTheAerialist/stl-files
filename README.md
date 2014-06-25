@@ -8,4 +8,4 @@ Steadicam
 
 3d printed parts for a custom steadicam build based off of the krotocam
 
-![steadicam/previews/steadicam-handle.jpg]
+![steadicam handle](https://raw.githubusercontent.com/RussTheAerialist/stl-files/master/steadicam/previews/steadicam-handle4.jpg)
